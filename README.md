@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1: Log into Azure VM using RDP and download [osTicket Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto your desktop
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1: Log into Azure VM using RDP and within the VM, download [osTicket Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto your desktop
+- Item 2: Install/Enable IIS in Windows WITH CGI
+- Item 3: Begin to download the files within "osTicket-Installation-Files"
+- Item 4: Open IIS as an admin, and register PHP from within IIS
+- Item 5: Install osTicket
 
 <h2>Installation Steps</h2>
 
