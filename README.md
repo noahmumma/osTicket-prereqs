@@ -19,10 +19,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Item 1: Log into Azure VM using RDP and within the VM, download [osTicket Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto your desktop
+          - If you do not know how to create an Azure VM, check out my other tutorial!
 - Item 2: Install/Enable IIS in Windows WITH CGI
-- Item 3: Begin to download the files within "osTicket-Installation-Files"
-- Item 4: Open IIS as an admin, and register PHP from within IIS
-- Item 5: Install osTicket
+- Item 3: From "osTicket-Installation-Files", install "PHP Manager" for IIS, then install the "Rewrite Module"
+- Item 4: Create the directory, "C:\PHP", and unzip "PHP 7.3.8" into the "C:\PHP" folder
+- Item 5: From "osTicket-Installation-Files", install "VC_redist" and "MySQL" with typical setup, standard configuration, and a username and password YOU WILL NOT FORGET
+- Item 6: Open IIS as an admin, and register PHP from within IIS
+- Item 7: Reload IIS, and begin installation of osTicket
 
 <h2>Installation Steps</h2>
 
