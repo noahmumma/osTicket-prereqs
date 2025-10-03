@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1: Log into Azure VM using RDP and download [osTicket Installation Files](osTicket-Installation-Files.zip) and unzip it onto your desktop
+- Item 1: Log into Azure VM using RDP and download [osTicket Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto your desktop
 - Item 2
 - Item 3
 - Item 4
